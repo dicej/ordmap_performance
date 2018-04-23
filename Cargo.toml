@@ -1,0 +1,8 @@
+[package]
+name = "ordmap_performance"
+version = "0.1.0"
+authors = ["Joel Dice <joel.dice@gmail.com>"]
+
+[dependencies]
+im = { path = "../im-rs" }
+rand = "0.4"
